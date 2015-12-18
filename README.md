@@ -36,4 +36,3 @@ The React ecosystem is very young, and it's exploding with enthusiastic contribu
 * [enzyme](https://github.com/airbnb/enzyme)
 * skin-deep
 * [react-unit](https://github.com/pzavolinsky/react-unit)
-* 
