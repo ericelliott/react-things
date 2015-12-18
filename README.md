@@ -19,6 +19,8 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 
 * [redux](https://github.com/rackt/redux)
 * [redux-devtools](https://github.com/gaearon/redux-devtools)
+* graphql
+* relay
 
 ## Routing
 
