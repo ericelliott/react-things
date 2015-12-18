@@ -8,6 +8,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 
 `\( ﾟヮﾟ)/`
 
+  , http://nikgraf.github.io/belle/ 
 
 ## Component creation, boilerplate & composition
 
@@ -29,8 +30,10 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 
 * [react-native-web](https://github.com/necolas/react-native-web)
 * css modules
-* [Elemental-UI](http://elemental-ui.com/)
-* [velocity-react](https://github.com/twitter-fabric/velocity-react)
+* [Elemental-UI](http://elemental-ui.com/) UI component lib
+* [React Toolbox](http://react-toolbox.com/) UI component lib
+* [velocity-react](https://github.com/twitter-fabric/velocity-react) Animations
+* [react-dnd](http://gaearon.github.io/react-dnd/) Drag n Drop for React
 
 ## Testing
 
