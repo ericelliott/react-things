@@ -40,13 +40,10 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 ## Testing
 
 * tape
-* [teaspoon](https://github.com/jquense/teaspoon) a jQuery-ish API with synthetic event support
 * [tape-jsx-equals](https://github.com/atabel/tape-jsx-equals) assertion for testing jsx rendering equality
+* [teaspoon](https://github.com/jquense/teaspoon) a jQuery-ish API with synthetic event support
 * [CodeceptJS](http://codecept.io/) Functional testing
 * cheerio a jQuery-ish API without synthetic event support
-
-### Testing Events
-
 * [Legitcode/tests](https://github.com/Legitcode/tests)
 * [enzyme](https://github.com/airbnb/enzyme)
 * skin-deep
