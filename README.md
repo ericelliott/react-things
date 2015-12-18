@@ -1,4 +1,4 @@
-# Explore React
+# React Things
 
 A exploratory list of React ecosystem solutions
 
