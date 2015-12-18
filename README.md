@@ -8,7 +8,6 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 
 `\( ﾟヮﾟ)/`
 
-  , http://nikgraf.github.io/belle/ 
 
 ## Component creation, boilerplate & composition
 
