@@ -30,6 +30,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [react-native-web](https://github.com/necolas/react-native-web)
 * css modules
 * [Elemental-UI](http://elemental-ui.com/)
+* [velocity-react](https://github.com/twitter-fabric/velocity-react)
 
 ## Testing
 
