@@ -26,12 +26,14 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 ## Routing
 
 * [react-router](https://github.com/rackt/react-router)
-* [redux-simple-router](https://github.com/jlongster/redux-simple-router)
+* [redux-router](https://github.com/acdlite/redux-router) Redux bindings for React Router – keep your router state inside your Redux store
+* [redux-simple-router](https://github.com/jlongster/redux-simple-router) Ruthlessly simple bindings to keep react-router and redux in sync
 
 ## Look & Feel
 
 * [react-native-web](https://github.com/necolas/react-native-web)
-* css modules
+* [css-modules](https://github.com/css-modules/css-modules) Documentation about css-modules
+* [react-css-modules](https://github.com/gajus/react-css-modules) Seamless mapping of class names to CSS modules inside of React components.
 * [Elemental-UI](http://elemental-ui.com/) UI component lib
 * [React Toolbox](http://react-toolbox.com/) UI component lib
 * [Belle](http://nikgraf.github.io/belle/) UI component lib
@@ -42,12 +44,12 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 
 ## Testing
 
-* tape
+* [tape](https://github.com/substack/tape) tap-producing test harness for node and browsers
 * [tape-jsx-equals](https://github.com/atabel/tape-jsx-equals) assertion for testing jsx rendering equality
 * [teaspoon](https://github.com/jquense/teaspoon) a jQuery-ish API with synthetic event support
 * [CodeceptJS](http://codecept.io/) Functional testing
-* cheerio a jQuery-ish API without synthetic event support
+* [cheerio](https://github.com/cheeriojs/cheerio) a jQuery-ish API without synthetic event support
 * [Legitcode/tests](https://github.com/Legitcode/tests)
-* [enzyme](https://github.com/airbnb/enzyme)
-* skin-deep
+* [enzyme](https://github.com/airbnb/enzyme) JavaScript Testing utilities for React by Airbnb
+* [skin-deep](https://github.com/glenjamin/skin-deep) Test assertion helpers for use with React's shallowRender test utils
 * [react-unit](https://github.com/pzavolinsky/react-unit)
