@@ -25,7 +25,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [react-router](https://github.com/rackt/react-router)
 * [redux-simple-router](https://github.com/jlongster/redux-simple-router)
 
-## Styles & Component collections
+## Look & Feel
 
 * [react-native-web](https://github.com/necolas/react-native-web)
 * css modules
