@@ -36,6 +36,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [Belle](http://nikgraf.github.io/belle/) UI component lib
 * [velocity-react](https://github.com/twitter-fabric/velocity-react) Animations
 * [react-dnd](http://gaearon.github.io/react-dnd/) Drag n Drop for React
+* [React Bootstrap](https://react-bootstrap.github.io/) Twitter Bootstrap UI component lib
 
 ## Testing
 
