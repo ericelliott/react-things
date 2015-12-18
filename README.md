@@ -35,7 +35,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 ## Testing
 
 * tape
-* [CodeconceptJS](http://codecept.io/) Functional testing
+* [CodeceptJS](http://codecept.io/) Functional testing
 * [tape-jsx-equals](https://github.com/atabel/tape-jsx-equals)
 * cheerio
 
