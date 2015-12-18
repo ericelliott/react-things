@@ -38,6 +38,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 
 ### Testing Events
 
+* [Legitcode/tests](https://github.com/Legitcode/tests)
 * [enzyme](https://github.com/airbnb/enzyme)
 * skin-deep
 * [react-unit](https://github.com/pzavolinsky/react-unit)
