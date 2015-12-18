@@ -14,6 +14,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [react-pure-component-starter](https://github.com/ericelliott/react-pure-component-starter)
 * [universal-react-boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate)
 * [react-stamp](https://github.com/stampit-org/react-stamp)
+* [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
 
 ## State
 
@@ -26,6 +27,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 
 * [react-router](https://github.com/rackt/react-router)
 * [redux-simple-router](https://github.com/jlongster/redux-simple-router)
+* [redux-router](https://github.com/acdlite/redux-router)
 
 ## Look & Feel
 
@@ -34,8 +36,11 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [Elemental-UI](http://elemental-ui.com/) UI component lib
 * [React Toolbox](http://react-toolbox.com/) UI component lib
 * [Belle](http://nikgraf.github.io/belle/) UI component lib
+* [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) react version of bootstrap UI components
+* [React widgets](https://github.com/jquense/react-widgets) additional UI components in bootstrap style
 * [velocity-react](https://github.com/twitter-fabric/velocity-react) Animations
 * [react-dnd](http://gaearon.github.io/react-dnd/) Drag n Drop for React
+* [Griddle](https://github.com/GriddleGriddle/Griddle) Amazing super customizable grid
 
 ## Testing
 
