@@ -1,6 +1,6 @@
 # React Things
 
-A exploratory list of React ecosystem solutions
+An exploratory list of React ecosystem solutions
 
 The React ecosystem is very young, and it's exploding with enthusiastic contributions. This list is an attempt to surface best practices and useful modules to help us build React applications.
 
@@ -26,7 +26,6 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 ## Routing
 
 * [react-router](https://github.com/rackt/react-router)
-* [redux-router](https://github.com/acdlite/redux-router) Redux bindings for React Router – keep your router state inside your Redux store
 * [redux-simple-router](https://github.com/jlongster/redux-simple-router) Ruthlessly simple bindings to keep react-router and redux in sync
 
 ## Look & Feel
