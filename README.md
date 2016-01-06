@@ -40,6 +40,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [react-dnd](http://gaearon.github.io/react-dnd/) Drag n Drop for React
 * [material-components](http://garth.github.io/material-components/#/)
 * [React Bootstrap](https://react-bootstrap.github.io/) Twitter Bootstrap UI component lib
+* [Material UI](http://www.material-ui.com/#/) Google's Material Design UI component lib
 
 ## Testing
 
