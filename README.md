@@ -26,7 +26,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 ## Routing
 
 * [react-router](https://github.com/rackt/react-router)
-* [redux-simple-router](https://github.com/jlongster/redux-simple-router) Ruthlessly simple bindings to keep react-router and redux in sync
+* [react-router-redux](https://github.com/rackt/react-router-redux) Ruthlessly simple bindings to keep react-router and redux in sync
 
 ## Look & Feel
 
