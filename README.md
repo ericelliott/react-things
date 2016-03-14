@@ -22,7 +22,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [graphql](https://github.com/facebook/graphql)
 * [relay](https://github.com/facebook/relay)
 * [Cerebral](http://www.cerebraljs.com/)
-* [Mobservable](https://mweststrate.github.io/mobservable)
+* [MobX](https://github.com/mobxjs/mobx)
 
 ## Routing
 
