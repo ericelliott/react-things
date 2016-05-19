@@ -44,6 +44,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [React Bootstrap](https://react-bootstrap.github.io/) Twitter Bootstrap UI component lib
 * [Material UI](http://www.material-ui.com/#/) Google's Material Design UI component lib
 * [React-Motion](https://github.com/chenglou/react-motion) Spring animation solution for React
+* [React-Virtualized](https://github.com/bvaughn/react-virtualized) Recycled list component renders to the DOM only visible items and stays light forever.
 
 ## Testing
 
