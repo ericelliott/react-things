@@ -14,10 +14,12 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [react-pure-component-starter](https://github.com/ericelliott/react-pure-component-starter)
 * [universal-react-boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate)
 * [react-stamp](https://github.com/stampit-org/react-stamp)
+* [recompose](https://github.com/acdlite/recompose)
 
 ## State
 
 * [redux](https://github.com/rackt/redux)
+* [redux-observable](https://github.com/redux-observable/redux-observable)
 * [react-reach](https://github.com/kennetpostigo/react-reach)
 * [redux-devtools](https://github.com/gaearon/redux-devtools)
 * [graphql](https://github.com/facebook/graphql)
