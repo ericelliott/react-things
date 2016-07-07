@@ -45,6 +45,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 * [Material UI](http://www.material-ui.com/#/) Google's Material Design UI component lib
 * [React-Motion](https://github.com/chenglou/react-motion) Spring animation solution for React
 * [React-Virtualized](https://github.com/bvaughn/react-virtualized) Recycled list component renders to the DOM only visible items and stays light forever.
+* [react-data-grid](https://github.com/adazzle/react-data-grid) Spreadsheet/Datatable like component providing editable cells of multiple types, keyboard navigation and other options.
 
 ## Testing
 
