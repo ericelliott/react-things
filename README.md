@@ -31,6 +31,7 @@ This is a curated list. Intentionally not exhaustive. I'm using it to help me de
 
 * [react-router](https://github.com/rackt/react-router)
 * [react-router-redux](https://github.com/rackt/react-router-redux) Ruthlessly simple bindings to keep react-router and redux in sync
+* [react-https-redirect](https://github.com/mbasso/react-https-redirect) Force a redirect to HTTPS when not on a local web server
 
 ## Look & Feel
 
